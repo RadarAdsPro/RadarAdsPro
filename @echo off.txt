@@ -1,0 +1,4 @@
+@echo off
+cd "C:\Users\Mohammad\RadarBackup\RadarAds\scripts"
+start "" node dailyTask.js
+
